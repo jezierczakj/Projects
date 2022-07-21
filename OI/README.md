@@ -1,0 +1,1 @@
+Task from 1st stage of Olympiad in Informatics from 2015. It calculates minimum number of posters required to cover every inch of buildings connected with one wall (histogram like), which height and width are given by the user. It contains one class for that was one of the requirements.
