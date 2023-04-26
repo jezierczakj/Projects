@@ -23,7 +23,8 @@ Java {
 
 Python {
 
-  SteelCarbide - Allows to detect and highlight two types of carbides in microstructure of steel. First the image is processed to improve efectiveness of shape detecting   functions, then shapes are marked and have their area calculated.  
+  SteelCarbides - Allows to detect and highlight two types of carbides in microstructure of steel. First the image is processed to improve efectiveness of shape
+  detecting functions, then shapes are marked and have their area calculated.  
 
   CoinDetector - Detects and marks each of British coins by comparing their real size with detected shape.
 
