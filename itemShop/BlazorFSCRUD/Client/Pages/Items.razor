@@ -1,0 +1,47 @@
+﻿@page "/items"
+@inject IItemService ItemService
+@inject NavigationManager NavigationManager
+<PageTitle>Items</PageTitle>
+
+<h3>Items</h3>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Material</th>
+			<th>Color</th>
+			<th>Category</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var item in ItemService.Items)
+		{
+			<tr> 
+				<td>@item.Name</td>
+				<td>@item.Material</td>
+				<td>@item.Color</td>
+				<td>@item.Category.Name</td>
+				<td>
+					<button class="btn btn_primary" @onclick="(() => ShowItem(item.Id))"><i class="oi oi-pencil"></i></button>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+<button class="btn btn-primary" @onclick="CreateNewItem">Create New Item</button>
+@code {
+	protected override async Task OnInitializedAsync()
+	{
+		await ItemService.GetItems(); 
+	}
+	void ShowItem(int id)
+	{
+		NavigationManager.NavigateTo($"item/{id}");
+	}
+	void CreateNewItem()
+	{
+		NavigationManager.NavigateTo("/item");
+	}
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorFSCRUD.Server.props" />
+</Project>
