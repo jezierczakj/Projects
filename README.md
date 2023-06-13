@@ -1,7 +1,7 @@
 C#{
 
-itemShop - ASP .NET/Blazor/MSSQL web application with basic CRUD, connected to database, connecting with client via http. Development not done, new features coming soon.
-To run this project MSSQL Server is required. 
+itemShop - ASP .NET/Blazor/MSSQL web application with basic CRUD, connected to database, connecting with client via http. Development not done, new features coming soon. Screenshots presenting how it works are stored in 'Screens' directory.
+
 }
 
 Java {
