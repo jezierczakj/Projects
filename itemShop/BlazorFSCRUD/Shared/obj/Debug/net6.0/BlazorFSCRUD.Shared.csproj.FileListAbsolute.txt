@@ -10,3 +10,15 @@ C:\Users\krzyc\source\repos\BlazorFSCRUD\Shared\obj\Debug\net6.0\BlazorFSCRUD.Sh
 C:\Users\krzyc\source\repos\BlazorFSCRUD\Shared\obj\Debug\net6.0\refint\BlazorFSCRUD.Shared.dll
 C:\Users\krzyc\source\repos\BlazorFSCRUD\Shared\obj\Debug\net6.0\BlazorFSCRUD.Shared.pdb
 C:\Users\krzyc\source\repos\BlazorFSCRUD\Shared\obj\Debug\net6.0\ref\BlazorFSCRUD.Shared.dll
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\bin\Debug\net6.0\BlazorFSCRUD.Shared.deps.json
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\bin\Debug\net6.0\BlazorFSCRUD.Shared.dll
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\bin\Debug\net6.0\BlazorFSCRUD.Shared.pdb
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\obj\Debug\net6.0\BlazorFSCRUD.Shared.csproj.AssemblyReference.cache
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\obj\Debug\net6.0\BlazorFSCRUD.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\obj\Debug\net6.0\BlazorFSCRUD.Shared.AssemblyInfoInputs.cache
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\obj\Debug\net6.0\BlazorFSCRUD.Shared.AssemblyInfo.cs
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\obj\Debug\net6.0\BlazorFSCRUD.Shared.csproj.CoreCompileInputs.cache
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\obj\Debug\net6.0\BlazorFSCRUD.Shared.dll
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\obj\Debug\net6.0\refint\BlazorFSCRUD.Shared.dll
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\obj\Debug\net6.0\BlazorFSCRUD.Shared.pdb
+C:\Users\krzyc\source\repos\Projects\itemShop\BlazorFSCRUD\Shared\obj\Debug\net6.0\ref\BlazorFSCRUD.Shared.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l74tX8/LJZggoAPzRS4gkA0agFJnyoercw5CBfSVHyW5DuOtF0czJ0myNx/wVn0It8jB+rS8qF7tndAXFXmYpA==",
+  "dgSpecHash": "9OnnxuaXbWZrtVaMjRiosEj2e66HcyDCDhnnmtaGTXM82aw8/OCFMu6wGrU0xIc35qLJJgMcxUmTfCMs0Gz6Hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj",
+  "projectFilePath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

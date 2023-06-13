@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-C3gpWQMELcHYfrHU\/1agQUvWTtSNs9Ul2suMxcKFnIc=",
       "netstandard.dll": "sha256-CgGkoZQx73t3qchcsu85kgBcgrjNEOiudArOwKNb18k=",
       "System.Private.CoreLib.dll": "sha256-6nUSjiT7okMlkN897OnDypwppYuK7JxTahOClXkAuwE=",
-      "BlazorFSCRUD.Shared.dll": "sha256-xGU5VCjKWDNLNbNUoqKLbiJAaE5zJCnrru\/Xz8ZNpFo=",
-      "BlazorFSCRUD.Client.dll": "sha256-ZVSBICHbzIi+FU\/tGq822UAld+nBR1sbYuctJzYKMPU="
+      "BlazorFSCRUD.Shared.dll": "sha256-W8\/\/bIqK9KQ\/EWUiydUSa5+0mbrsd+5KikFozz4Gbec=",
+      "BlazorFSCRUD.Client.dll": "sha256-g3jCCmTcF\/pbWd0nPy52pcz0nHhDAP98+PlG3m+w88k="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorFSCRUD.Shared.pdb": "sha256-x1Yv8bIsHRAeMGsPYez6KBNSKnaqUhRpOpkgXwPti28=",
-      "BlazorFSCRUD.Client.pdb": "sha256-GATfXXsO7VpvN3wSSMpCW9WA0pGPVgp8sb+lhLlCnoQ="
+      "BlazorFSCRUD.Shared.pdb": "sha256-XsHj525gtMDnpSL5fo5lUbuc0l6O\/RC3mH88dU\/e9C0=",
+      "BlazorFSCRUD.Client.pdb": "sha256-Mr\/sBxB8Cqdaw0ZPeY8vzPkw7mxpAj7eHpkPTsUTWj8="
     },
     "runtime": {
       "dotnet.6.0.16.ehkj4zy53k.js": "sha256-GT2gK+GjOisRXJY+9yh6H8s6K\/KDIsaFMFIgWvAnttY=",

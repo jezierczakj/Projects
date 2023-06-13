@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Server\\BlazorFSCRUD.Server.csproj": {}
+    "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Server\\BlazorFSCRUD.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj": {
+    "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj",
+        "projectUniqueName": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj",
         "projectName": "BlazorFSCRUD.Client",
-        "projectPath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj",
+        "projectPath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj",
         "packagesPath": "C:\\Users\\krzyc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Client\\obj\\",
+        "outputPath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krzyc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj": {
-                "projectPath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj"
+              "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj": {
+                "projectPath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Server\\BlazorFSCRUD.Server.csproj": {
+    "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Server\\BlazorFSCRUD.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Server\\BlazorFSCRUD.Server.csproj",
+        "projectUniqueName": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Server\\BlazorFSCRUD.Server.csproj",
         "projectName": "BlazorFSCRUD.Server",
-        "projectPath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Server\\BlazorFSCRUD.Server.csproj",
+        "projectPath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Server\\BlazorFSCRUD.Server.csproj",
         "packagesPath": "C:\\Users\\krzyc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Server\\obj\\",
+        "outputPath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krzyc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,11 +110,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj": {
-                "projectPath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj"
+              "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj": {
+                "projectPath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj"
               },
-              "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj": {
-                "projectPath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj"
+              "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj": {
+                "projectPath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj"
               }
             }
           }
@@ -181,14 +181,14 @@
         }
       }
     },
-    "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj": {
+    "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj",
         "projectName": "BlazorFSCRUD.Shared",
-        "projectPath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj",
+        "projectPath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Shared\\BlazorFSCRUD.Shared.csproj",
         "packagesPath": "C:\\Users\\krzyc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krzyc\\AppData\\Roaming\\NuGet\\NuGet.Config",

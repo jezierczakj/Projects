@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gMWdSk53kIpD/nBGI/DJMdVRSRCjygcisVVdfuADHrww2Vz/FGjWM5gkjxf3v9DVC9/dhpnw57O5u35KwWBJew==",
+  "dgSpecHash": "3N2wnEhrdq7vv6NTrDAUd3pqFy62es5SS1xGmhRDQHmK4aWHGEUCyF4lruaKmgC451HtyBgy1QJh8Ucb4m1tjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj",
+  "projectFilePath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Client\\BlazorFSCRUD.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krzyc\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.15\\microsoft.aspnetcore.authorization.6.0.15.nupkg.sha512",
     "C:\\Users\\krzyc\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.15\\microsoft.aspnetcore.components.6.0.15.nupkg.sha512",

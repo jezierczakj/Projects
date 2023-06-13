@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sjq2hYI8W63Gh6ZBzJqrLOLmsbVp5/gqP3JedHMK2o7b5bKtGmUrcdm1D5qQDFiuGlinqFA9S1skfCOHkfdISg==",
+  "dgSpecHash": "nxb5uvjYsK0WOSkJdZRb8MzFxUf8V6uL2K4GltA2m+4uqfSBYEdKu5YUI0LrrLAmvkn/hMs4w3rv5TEEtu7qEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krzyc\\source\\repos\\BlazorFSCRUD\\Server\\BlazorFSCRUD.Server.csproj",
+  "projectFilePath": "C:\\Users\\krzyc\\source\\repos\\Projects\\itemShop\\BlazorFSCRUD\\Server\\BlazorFSCRUD.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krzyc\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\krzyc\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
