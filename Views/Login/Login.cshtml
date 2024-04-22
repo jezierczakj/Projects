@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Login"] = "Login Page";
+}
+@using LotCRUD.Models
+@model LotCRUD.Models.UserLogin
+
+<h1>Login</h1>
+
+<form method="post">
+
+    <div class="mt-3">
+        <label class="form-label">Login</label>
+        <input type="text" class="form-control" asp-for="Username" />
+        @Html.ValidationMessageFor(model => model.Username)
+
+    </div>
+
+    <div class="mt-3">
+        <label class="form-label">Haslo</label>
+        <input type="text" class="form-control" asp-for="Password" />
+        @Html.ValidationMessageFor(model => model.Password)
+
+    </div>
+
+    <div class="mt-3">
+        <button type="submit" class="btn btn-primary">Login</button>
+    </div>
+</form>
